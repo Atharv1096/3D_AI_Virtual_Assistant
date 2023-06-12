@@ -1,6 +1,6 @@
 import openai
 import time
-openai.api_key = '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'
+openai.api_key = 'your api key'
 
 model_engine = 'text-davinci-003'
 
