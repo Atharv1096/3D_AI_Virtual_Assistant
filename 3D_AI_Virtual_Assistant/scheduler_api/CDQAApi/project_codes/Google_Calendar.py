@@ -2,7 +2,7 @@ from google.oauth2 import service_account
 from googleapiclient.discovery import build
 
 # Replace these with your own values
-SERVICE_ACCOUNT_FILE = 'strong-arbor-380716-bb47f7e2b9ca.json'
+SERVICE_ACCOUNT_FILE = ''
 USER_EMAIL = 'kulkarniatharv73@gmail.com'
 
 # Load the service account credentials
